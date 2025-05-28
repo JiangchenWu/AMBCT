@@ -1,1 +1,1 @@
-If the manuscript has the opportunity to be accepted, the code will be published.
+The code will be made available upon manuscript acceptance.
